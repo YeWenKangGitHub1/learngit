@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 我是feature
 修改readme.txt文件(dev)
+这个是在GitHub上写的
